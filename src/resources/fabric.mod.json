@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "meow",
+  "version": "${version}",
+  "name": "meow",
+  "description": "meow",
+  "authors": [
+    "F3i4ik"
+  ],
+  "contact": {
+    "repo": "https://github.com/cattyngmd/oyvey-portedvey-ported"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "accessWidener": "meow.accesswidener",
+  "entrypoints": {
+    "client": [
+      "me.meow.Meow"
+    ],
+    "main": [
+      "me.meow.Meow"
+    ]
+  },
+  "mixins": [
+    "meow.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
