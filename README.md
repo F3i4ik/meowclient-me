@@ -1,14 +1,3 @@
-<div align="center">
-
-# oyvey-ported
-Kosher client base ported to Minecraft 1.21.1 by [@cattyngmd](https://github.com/cattyngmd)
-
-<img src="https://i.imgur.com/Lu6rDJB.png" width="90%" />
-
-# Why
-![](https://i.imgur.com/VYjIphG.png)
-
-# What
-Add stuff to it like you would add stuff to your 1.12.2 OyVey paste
-
-</div>
+Meow Meow Meow :3
+![image](https://github.com/user-attachments/assets/963525fb-7099-42c9-bd3c-436528eda76c)
+![image](https://github.com/user-attachments/assets/2434cf3f-76cc-4873-ba20-37295babf625)
